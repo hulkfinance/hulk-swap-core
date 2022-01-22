@@ -1,5 +1,5 @@
 {
-  "name": "@hulkfinance-libs/hulk-swap-core",
+  "name": "@hulkfinance/hulk-swap-core",
   "description": "Core contracts for the hulkfinance protocol",
   "version": "0.1.0",
   "homepage": "https://hulkfinance.com",
